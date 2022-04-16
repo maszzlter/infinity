@@ -1,0 +1,5 @@
+﻿  myPlayer.cpp
+d:\desktop\player\myplayer\myplayer\myplayer.cpp(445): warning C4018: “<”: 有符号/无符号不匹配
+d:\desktop\player\myplayer\myplayer\myplayer.cpp(467): warning C4018: “<”: 有符号/无符号不匹配
+d:\desktop\player\myplayer\myplayer\myplayer.cpp(506): warning C4018: “<”: 有符号/无符号不匹配
+  myPlayer.vcxproj -> D:\Desktop\player\myPlayer\Debug\myPlayer.exe
